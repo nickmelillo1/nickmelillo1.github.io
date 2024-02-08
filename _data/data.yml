@@ -69,30 +69,27 @@ education:
         university: Florida Gulf Coast University
         time: 2021 - 2025
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          As an economics student, I have learned to be critical thinker. I
+          have taken courses such as: Intermediate Price Theory, 
+          Intermediate Macroeconomics, Econometrics, and Labor Economics. 
             - Bullet point
             - Bullet point
       - degree: BS Real Estate Finance
         university: Florida Gulf Coast University
         time: 2021 - 2025
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          As a real estate finance student, I have been able to learn 
+          valuable knowledge about various topics in real estate. I 
+          have taken courses such as: Valuation of Real Property, Real 
+          Estate Investment Decision Making, and Real Estate Finance.
             - Bullet point
             - Bullet point
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
+      - role: Lead Leader
+        time: December 2021 - January 2024
         company: Ted's Montana Grill, Estero
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -106,9 +103,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Server
+        time: December 2021 - Present
+        company: Ted's Montana Grill
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -117,9 +114,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Owner
+        time: April 2018 - April 2022
+        company: Nick's Lawn Care and Landscaping
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
