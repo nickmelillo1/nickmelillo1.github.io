@@ -102,8 +102,8 @@ experiences:
             
             
 
-certifications:
-      title: 
+#certifications:
+      title: Certifications
       list:
         - name: CV Builder
           start: 2020
