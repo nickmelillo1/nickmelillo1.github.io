@@ -103,60 +103,41 @@ experiences:
             
 
 #certifications:
-      title: Certifications
+      title: 
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: 
+          start: 
+          end: 
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+            
+        - name: 
+          start: 
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Descrive FIST here maybe?
     assignments:
-      - title: Velocity
+      - title: Financial Instruction for Student Triumph
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Enter info here in the quotes"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: 
+        link: 
+        tagline: 
 
       - title: 
         link: 
@@ -207,27 +188,27 @@ projects:
         authors: 
         conference: 
 
-skills:
-    title: Skills &amp; Proficiency
+#skills:
+    title: 
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: 
+        level: 
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: 
+        level: 
 
-      - name: Angular
-        level: 98%
+      - name: 
+        level: 
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: 
+        level: 
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: 
+        level: 
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: 
+        level: 
 
 footer: >
     
