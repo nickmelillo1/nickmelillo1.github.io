@@ -102,9 +102,9 @@ experiences:
             
             
 
-certifications:
-      title: Certifications
-      list:
+#certifications:
+      #title: Certifications
+      #list:
         - name: CV Builder
           start: 2020
           end: 2021
@@ -126,7 +126,7 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - #name: Git learning
           start: 2019
           end:
           organization: Microsoft
@@ -170,48 +170,48 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
+#oss:
+    #title: OSS Contributions
+    #intro: >
       You can list your open source software contributions in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
+    #contributions:
+      - #title: Tempo
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - #title: Atom
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - #title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
+#publications:
+    #title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+    #papers:
+      - #title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - #title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
+      - #title: A syntax directed compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
+#skills:
     title: Skills &amp; Proficiency
 
     toolset:
