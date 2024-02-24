@@ -112,7 +112,7 @@ certifications:
           credentialid: 
           credentialurl: 
           credentialname: 
-          details: |
+          details:
             
 
             
@@ -123,17 +123,17 @@ certifications:
           credentialid: 
           credentialurl: 
           credentialname: 
-          details: |
+          details: 
           
 
 projects:
     title: Projects
     intro: >
-      Descrive FIST here maybe?
+      
     assignments:
       - title: Financial Instruction for Student Triumph
         link: "#hook"
-        tagline: "Enter info here in the quotes"
+        tagline: "Financial Instruction for Student Triumph (FIST) was a non-profit that I jointly created to help serve the underpriviledged youth by teaching them about financial literacy."
 
       - title: 
         link: 
