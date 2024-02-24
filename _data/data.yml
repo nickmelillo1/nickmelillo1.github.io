@@ -65,14 +65,14 @@ education:
         university: Florida Gulf Coast University
         time: 2021 - 2025
         details: |
-          As an economics student, I have learned to be critical thinker. Not only have I learned practical knowledge that is directly applicable in the business world, but in my schooling I have also gained a new perspective. I have especially thrived in macroeconomics where I learned about in depth about monetary policy, growth theory, and the trade balance/net capital outflow. 
+          As an economics student, I have learned to be critical thinker. Not only have I learned practical knowledge that is directly applicable in the business world, but in my schooling I have also gained a new perspective. I have especially thrived in macroeconomics where I learned in depth about monetary policy, growth theory, and the trade balance/net capital outflow. 
             - Relevant Coursework: Intermediate Macroeconomics, Intermediate Price Theory, Econometrics, Labor Economics.
             
       - degree: BS Real Estate Finance
         university: Florida Gulf Coast University
         time: 2021 - 2025
         details: |
-          As a real estate finance student, I have been able to learn valuable knowledge about various topics in real estate. I have become familiar with the three real estate valuation models. Additionally, I have become acquainted with the impacts that NOI has on a property and the impacts that it has in reagard to future forecasting and valuation. Also, I have showed mastering in real estate financial concepts like loan conecpts and mortgage calculations. 
+          As a real estate finance student, I have been able to learn valuable knowledge about various topics in real estate. I have become familiar with the three real estate valuation models. Additionally, I have become acquainted with the impacts that NOI has on a property and the impacts that it has in regard to future forecasting and valuation. Also, I have shown mastering in real estate financial concepts relating to loans and mortgages. 
            
             - Relevant Coursework: Real Estate Investment Decision Making, Valuation of Real Property, Real Estate Finance. 
             
@@ -84,28 +84,16 @@ experiences:
         time: December 2021 - January 2024
         company: Ted's Montana Grill, Estero
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - 
-            - 
+          As a Team Leader at Ted's Montata Grill, I mangaged a group of hardworking team members to routinely uphold company standards. I quickly learned the difference between effective managing and ineffective managing. Through this experience, I was able to learn more about how people work, operate, and the ways they respond to different types of mangagement. I learned that each day presents new challenges and therefore creative and custom solutions. My job also consisted of interacting with guests throughout the dining room and completing closing procedures such as cash reconcilations, inventory, and simple administrative work. 
+             
+             
       - role: Server
         time: December 2021 - Present
         company: Ted's Montana Grill
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - 
-            - 
+          Serving at Ted's Montana Grill helped me further understand the importance of guest relations and delight. Here I learned the impact that delighted and happy guests have on a business's success. I became a certified trainer to help train new employees. This helped me become a better teacher and leader. As a trainer, you are a continuous role model and standard for other team members. 
+             
+             
       - role: Owner
         time: April 2018 - April 2022
         company: Nick's Lawn Care and Landscaping
@@ -115,8 +103,8 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - 
+            - 
 
 certifications:
       title: Certifications
