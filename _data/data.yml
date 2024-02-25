@@ -111,7 +111,7 @@ certifications:
           organization: 
           credentialid: 
           credentialurl: "ncmmelillo.wixsite.com/fist"
-          credentialname: Website
+          credentialname: Visit Website
           details: "Financial Instruction for Student Triumph (FIST) was a non-profit that I jointly created to help serve the underpriviledged youth by teaching them about financial literacy."
             
 
@@ -126,7 +126,7 @@ certifications:
           details: 
           
 
-projects:
+#projects:
     title: 
     intro: >
       
