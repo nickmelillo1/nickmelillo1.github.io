@@ -102,7 +102,7 @@ experiences:
             
             
 
-certifications:
+projects:
       title: Projects
       list:
         - name: 
@@ -127,9 +127,9 @@ certifications:
           
 
 projects:
-    title: Projects
+    title: 
     intro: >
-      info here for test
+      
     assignments:
       - title: Financial Instruction for Student Triumph
         link: "https://ncmmelillo.wixsite.com/fist"
