@@ -129,29 +129,29 @@ certifications:
           details: 
           
 
-projects:
-    title:
-    intro:
+projects: 
+    title: 
+    intro: 
       
-    assignments:
-      - title:
-        link:
-        tagline:
-      - title:
-        link:
-        tagline:
+    assignments: 
+      - title: 
+        link: 
+        tagline: 
+      - title: 
+        link: 
+        tagline: 
 
-      - title:
-        link:
-        tagline:
+      - title: 
+        link: 
+        tagline: 
 
-      - title:
-        link:
-        tagline:
+      - title: 
+        link: 
+        tagline: 
 
-      - title:
-        link:
-        tagline:
+      - title: 
+        link: 
+        tagline: 
 
 #oss:
     title: 
