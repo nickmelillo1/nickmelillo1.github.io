@@ -56,7 +56,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am currently a senior studying economics and real estate finance at Florida Gulf Coast University. I am planning on pursuing a career path in commercial real estate upon graduation. As of now, I am in the search of an internship or a hands-on learning experience, so I can develop my classroom knowledge further with real world experience. 
+      I am currently a senior studying economics and real estate finance at Florida Gulf Coast University. I am planning on pursuing a career path in commercial real estate upon graduation. As of now, I am in the search of an internship or a hands-on learning experience, so I can develop my classroom knowledge further with real world experience. I have already completed 1.75 elective credits with the CCIM Institute and am a member of the Urban Land Institute. I am in the process now of completing my pre-licensing education so I can obtain my real estate license. 
 
 education:
     title: Education
@@ -80,18 +80,19 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Team Leader
-        time: December 2021 - January 2024
-        company: Ted's Montana Grill, Estero
-        details: |
-          As a Team Leader at Ted's Montana Grill, I mangaged a group of hardworking team members to routinely exceed company standards. I quickly learned the difference between effective managing and ineffective managing. Through this experience, I was able to learn more about how people work, operate, and the ways they respond to different types of mangagement. I learned that each day presents new challenges and I developed creative and customized solutions to solve them. My job also consisted of interacting with guests throughout the dining room and completing closing procedures such as cash reconcilations, inventory, and simple administrative work. 
-             
-             
       - role: Server
         time: December 2021 - Present
         company: Ted's Montana Grill, Estero
-        details: |
-          Serving at Ted's Montana Grill helped me further understand the importance of guest relations and delight. Here, I learned the impact that delighted and happy guests have on a business's success. I became a certified trainer to help train new employees. This helped me become a better teacher and leader. As a trainer, you are a continuous role model and standard for other team members. 
+        details: Serving at Ted's Montana Grill helped me further understand the importance of guest relations and delight. Here, I learned the impact that delighted and happy guests have on a business's success. I became a certified trainer to help train new employees. This helped me become a better teacher and leader. As a trainer, you are a continuous role model and standard for other team members. 
+          
+             
+             
+      - role: Team Leader
+        time: September 2022 - January 2024
+        company: Ted's Montana Grill, Estero
+        details: As a Team Leader at Ted's Montana Grill, I mangaged a group of hardworking team members to routinely exceed company standards. I quickly learned the difference between effective managing and ineffective managing. Through this experience, I was able to learn more about how people work, operate, and the ways they respond to different types of mangagement. I learned that each day presents new challenges and I developed creative and customized solutions to solve them. My job also consisted of interacting with guests throughout the dining room and completing closing procedures such as cash reconcilations, inventory, and simple administrative work. 
+
+          
              
              
       - role: Owner
