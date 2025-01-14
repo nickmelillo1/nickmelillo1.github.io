@@ -56,7 +56,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am currently a senior studying economics and real estate finance at Florida Gulf Coast University. Following graduation, I will start working full-time at Carroll and Carroll as a real estate appraiser. I have already completed 1.75 elective credits with the CCIM Institute, am a member of the Urban Land Institute, as well as an affiliate with the Appraisal Institute. I also hold a real estate sales associate license. 
+      I am currently a senior studying economics and real estate finance at Florida Gulf Coast University. Following graduation, I will start working full-time at Carroll and Carroll as a real estate ap. I have already completed 1.75 elective credits with the CCIM Institute, am a member of the Urban Land Institute, as well as an affiliate with the Appraisal Institute. I also hold a real estate sales associate license. 
 
 education:
     title: Education
@@ -79,14 +79,7 @@ education:
 
 experiences:
     title: Experiences
-    info:
-    - role: Real Estate Appraisal Trainee
-        time: January 2025 - Present
-        company: Carroll and Carroll, Naples
-        details: As an appraisal trainee, I assist in appraisal report writing; I help collect data on the local economy, subject properties, and aid in the production of reports through the three major valuation methods.  
-        
-
-
+    info:  
       - role: Server
         time: December 2021 - Present
         company: Ted's Montana Grill, Estero
