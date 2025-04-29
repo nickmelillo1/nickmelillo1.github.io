@@ -178,22 +178,12 @@ projects:
         tagline: 
 
 publications:
-    title: Research Paper
-    intro: testing to see what appears here
+    title: Publications
+    intro: Click the link below to read my research paper. 
       
     papers:
       - title: Effect of Proximity to Fire Departments on Single-Family Property Values in Estero, Florida
         link: /Research-Paper.pdf
-        authors: Nick Melillo
-        conference: 
-
-      - title: 
-        link: 
-        authors: 
-        conference: 
-
-      - title: 
-        link: 
         authors: 
         conference: 
 
