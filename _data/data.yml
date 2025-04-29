@@ -177,13 +177,13 @@ projects:
         link: 
         tagline: 
 
-#publications:
-    title: 
+publications:
+    title: Research Paper
     intro: |
       
     papers:
-      - title: 
-        link: 
+      - title: Effect of Proximity to Fire Departments on Single-Family Property Values in Estero, Florida
+        link: /Research-Paper.pdf
         authors: 
         conference: 
 
